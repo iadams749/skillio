@@ -6,7 +6,7 @@ A collection of custom [Agent Skills](https://agentskills.io/specification) for 
 
 | Skill | Description |
 |-------|-------------|
-| [ai-repo-setup](./ai-repo-setup/SKILL.md) | Scaffold AI development tooling into any repository — AGENTS.md, agent skills, and MCP servers |
+| [ai-repo-setup](./skills/ai-repo-setup/SKILL.md) | Scaffold AI development tooling into any repository — AGENTS.md, agent skills, and MCP servers |
 
 ## Usage
 
